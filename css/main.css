@@ -1,0 +1,44 @@
+body{
+    background-color: #E1FAFF;
+    width: 600px;
+    height: 400px;
+    margin-left: calc(50% - 500px / 2);
+}
+
+
+
+#left{
+    display: inline-block;
+    width: 50%;
+    margin-top: 250px;
+    margin-right: 0%;
+    float: left;
+    text-align: center;
+}
+
+#right{
+    display: inline-block;
+    width: 50%;
+    float: right;
+    margin-top: 140px;
+    
+}
+
+h1, p {
+    color: #4E38C1
+
+}
+
+h1{
+    font-size: 70px;
+    
+}
+
+button{
+margin-top: 5px;
+background-color: #2FCFD9;
+border: none;
+color: #4E38C1;
+padding: 10px;
+font-size: 15px;
+}
